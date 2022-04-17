@@ -63,6 +63,6 @@ https://imbalanced-learn.org/dev/references/generated/imblearn.combine.SMOTEENN.
 ![EasyEnsembleAdaBoost.png](images/EasyEnsembleAdaBoost.png)
 
 ## Summary
-I have made the best use of data in hand and the available machine learning models. In all the algoriths above, has been high. <br>
-F1 score ,F-measure is an evaluation metric for a classification defined as the harmonic mean of precision and recall. The value of F-measure(F1-score) reaches the best value at 1 and the worst value at 0. F1-score 1 represents the perfect accuracy and recall of the model. <br>
+I have made the best use of data in hand and the available machine learning models. In all the algoriths above, F1 score has been high. <br>
+F-measure is an evaluation metric for a classification defined as the harmonic mean of precision and recall. The value of F-measure(F1-score) reaches the best value at 1 and the worst value at 0. F1-score 1 represents the perfect accuracy and recall of the model. <br>
 Further studies and research might be needed for more information.
